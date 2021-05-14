@@ -1,0 +1,8 @@
+com/tts/week13day5/model/Subscriber.java
+ com.tts.week13day5.model.Subscriber
+com/tts/week13day5/Week13day5Application.java
+ com.tts.week13day5.Week13day5Application
+com/tts/week13day5/controller/SubscriberController.java
+ com.tts.week13day5.controller.SubscriberController
+com/tts/week13day5/repository/SubscriberRepository.java
+ com.tts.week13day5.repository.SubscriberRepository
